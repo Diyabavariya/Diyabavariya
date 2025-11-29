@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey there! I'm Diya Bavariya
 
-<!--
-**Diyabavariya/Diyabavariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE student at Nirma University
+💡 Passionate about coding, problem solving, and building impactful software
+🧠 Currently focused on Data Structures & Algorithms
+🚀 Exploring systems, networking, and full-stack development
+🌱 Always curious, always learning
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages: C, C++, Python, JavaScript
+🧩 Core CS: Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS
+🌐 Web Development: HTML, CSS, JavaScript (basics), experimenting with full-stack
+🧰 Tools: Git & GitHub, VS Code, Linux basics, MySQL, Scilab
+
+🌟 What I'm Up To
+🧠 Strengthening DSA & problem-solving
+📚 Working on projects in networking, systems, and web development
+🔍 Practicing coding questions and improving logic-building
+🏗️ Learning new technologies through hands-on mini-projects
