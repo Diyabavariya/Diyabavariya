@@ -1,31 +1,58 @@
-👋 Hey there! I'm Diya Bavariya
+# 👋 Hey there! I'm Diya Bavariya
 
-🎓 CSE student at Nirma University
+🎓 CSE student at **Nirma University**  
+💡 Passionate about coding, problem solving, and building impactful software  
+🧠 Currently focused on **Data Structures & Algorithms**  
+🚀 Exploring systems, networking, and full-stack development  
+🌱 Always curious, always learning  
 
-💡 Passionate about coding, problem solving, and building impactful software
+---
 
-🧠 Currently focused on Data Structures & Algorithms
+## 🛠️ Tech Stack
 
-🚀 Exploring systems, networking, and full-stack development
+### **💻 Languages**
+- C  
+- C++  
+- Python   
 
-🌱 Always curious, always learning
+### **🧩 Core CS**
+- Data Structures & Algorithms  
+- Operating Systems  
+- Computer Networks  
+- DBMS  
 
-🛠️ Tech Stack
+### **🌐 Web Development**
+- HTML  
+- CSS  
+- JavaScript (Basics)  
+- Experimenting with full-stack  
 
-💻 Languages: C, C++, Python, JavaScript
+### **🧰 Tools**
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)  
+- MySQL  
+- Scilab  
 
-🧩 Core CS: Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS
+---
 
-🌐 Web Development: HTML, CSS, JavaScript (basics), experimenting with full-stack
+## 🌟 What I'm Up To
 
-🧰 Tools: Git & GitHub, VS Code, Linux basics, MySQL, Scilab
+- 🧠 Strengthening **DSA & problem-solving**  
+- 📚 Working on projects in networking, systems, and web development  
+- 🔍 Practicing coding questions & improving logic-building  
+- 🏗️ Exploring new technologies through hands-on mini-projects  
 
-🌟 What I'm Up To
 
-🧠 Strengthening DSA & problem-solving
+---
 
-📚 Working on projects in networking, systems, and web development
+## 📊 GitHub Analytics
 
-🔍 Practicing coding questions and improving logic-building
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Diyabavariya&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Diyabavariya&theme=tokyonight" />
+</p>
 
-🏗️ Learning new technologies through hands-on mini-projects
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyabavariya&layout=compact&theme=tokyonight" />
+</p>
